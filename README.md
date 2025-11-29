@@ -114,7 +114,3 @@ The `/pr` command automatically detects and fills templates at:
 - **JIRA Integration**: Ticket extracted from branch name or commit messages
 - **Story-driven commits**: Logical progression showing how a feature was built
 
-## License
-
-MIT
-
