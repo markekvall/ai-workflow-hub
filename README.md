@@ -11,6 +11,8 @@ These commands treat AI as a thinking partner, not just a code generator. They:
 - **Confirm understanding** before acting, avoiding assumptions
 - **Adapt** to your project's conventions and templates
 
+Read the full analysis on why I built these commands: [LINK](https://markekvall.substack.com/p/google-wants-you-to-vibe-code-with)
+
 ## Commands
 
 ### `/review`
